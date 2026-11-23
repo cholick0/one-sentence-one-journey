@@ -8,7 +8,7 @@ A complete story about a journey, told in exactly one sentence — built for the
 
 `main.ts` writes the entry to `/output/entry.txt`:
 
-> When the last bus left her mountain village at dusk, Mara walked the gravel road with her mother's brass kettle in her arms, and by the time the city lights found her she understood that home was never the house she had left, only the weight she had chosen to carry.
+> When the last bus left her mountain village at dusk, Mara walked the gravel road with her mother's brass kettle warm against her ribs, and by the time the city lights found her she understood that home was never the house she had left, only the weight she had chosen to carry.
 
 Run it with Node 22:
 
